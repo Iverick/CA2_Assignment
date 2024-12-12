@@ -13,6 +13,9 @@ import java.util.Scanner;
 public class MultiplicationTable {
     // Task 2: Multiplication Table Using 2D Array
     public static void multiplicationTable() {
+        System.out.println("");
+        System.out.println("Task 2 - Multiplication Table Using 2D Array");
+        
         Scanner sc = new Scanner(System.in);
         
         // Ask user for multiplication table size

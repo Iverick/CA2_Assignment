@@ -13,6 +13,8 @@ import java.util.Set;
  */
 public class CheckArrayForDuplicates {
     public static String checkArrayForDuplicates() {
+        System.out.println("Task 1 -  Array Search – Find the First Repeated Element");
+        
         int[] inputArray = ArrayCreator.arrayCreator();
         Set<Integer> helperSet = new HashSet<>();
         

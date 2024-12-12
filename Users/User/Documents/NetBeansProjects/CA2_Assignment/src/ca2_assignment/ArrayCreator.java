@@ -16,6 +16,7 @@ public class ArrayCreator {
         // Ask user to create an array of specific length
         Scanner sc = new Scanner(System.in);
         
+        System.out.println("");
         System.out.println("Enter length of an array:");
         int arrLength = sc.nextInt();
         

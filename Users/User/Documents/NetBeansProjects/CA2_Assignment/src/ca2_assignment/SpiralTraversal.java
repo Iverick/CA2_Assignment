@@ -13,6 +13,9 @@ import java.util.Scanner;
 public class SpiralTraversal {
     // Task 4: Spiral Traversal of a Matrix
     public static void spiralTraversal() {
+        System.out.println("");
+        System.out.println("Task 4 - Spiral Traversal of a Matrix");
+        
         Scanner sc = new Scanner(System.in);
         
         // Ask user for the number of rows and columns in matrix

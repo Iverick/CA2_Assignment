@@ -11,6 +11,9 @@ package ca2_assignment;
 public class BubbleSort {
     // Task 5: Bubble Sort - Sorting an Array
     public static void bubbleSort() {
+        System.out.println("");
+        System.out.println("Task 5 - Bubble Sort - Sorting an Array");
+        
         // Initialize required variables
         int[] inputArray = ArrayCreator.arrayCreator();
         int numOfSwaps = 0;

@@ -13,6 +13,9 @@ import java.util.Scanner;
 public class DiagonalSum {
     // Task 3: Diagonal Sum of a Matrix
     public static void diagonalSum() {
+        System.out.println("");
+        System.out.println("Task 3 - Diagonal Sum of a Matrix");
+        
         Scanner sc = new Scanner(System.in);
         
         // Ask user for the number of rows and columns in matrix

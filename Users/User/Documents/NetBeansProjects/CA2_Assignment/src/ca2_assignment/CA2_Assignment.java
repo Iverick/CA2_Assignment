@@ -16,12 +16,13 @@ public class CA2_Assignment {
 
     /**
      * Link to Github repo - https://github.com/Iverick/CA2_Assignment
+     * https://github.com/Iverick/CA2_Assignment/tree/CA2_Assignment/Users/User/Documents/NetBeansProjects/CA2_Assignment/src/ca2_assignment
      */
     public static void main(String[] args) {
-        // System.out.println(CheckArrayForDuplicates.checkArrayForDuplicates());
-        // MultiplicationTable.multiplicationTable();
-        // DiagonalSum.diagonalSum();
+        System.out.println(CheckArrayForDuplicates.checkArrayForDuplicates());
+        MultiplicationTable.multiplicationTable();
+        DiagonalSum.diagonalSum();
         SpiralTraversal.spiralTraversal();
-        // BubbleSort.bubbleSort();
+        BubbleSort.bubbleSort();
     }
 }
