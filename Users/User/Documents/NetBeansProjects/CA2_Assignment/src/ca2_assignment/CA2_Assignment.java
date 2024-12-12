@@ -18,6 +18,7 @@ public class CA2_Assignment {
      * Link to Github repo - https://github.com/Iverick/CA2_Assignment
      */
     public static void main(String[] args) {
-        System.out.println(CheckArrayForDuplicates.checkArrayForDuplicates());
+        // System.out.println(CheckArrayForDuplicates.checkArrayForDuplicates());
+        BubbleSort.bubbleSort();
     }
 }
