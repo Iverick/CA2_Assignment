@@ -19,7 +19,8 @@ public class CA2_Assignment {
      */
     public static void main(String[] args) {
         // System.out.println(CheckArrayForDuplicates.checkArrayForDuplicates());
-        MultiplicationTable.multiplicationTable();
+        // MultiplicationTable.multiplicationTable();
+        DiagonalSum.diagonalSum();
         // BubbleSort.bubbleSort();
     }
 }
