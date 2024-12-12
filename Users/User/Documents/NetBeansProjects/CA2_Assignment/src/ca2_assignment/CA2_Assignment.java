@@ -20,7 +20,8 @@ public class CA2_Assignment {
     public static void main(String[] args) {
         // System.out.println(CheckArrayForDuplicates.checkArrayForDuplicates());
         // MultiplicationTable.multiplicationTable();
-        DiagonalSum.diagonalSum();
+        // DiagonalSum.diagonalSum();
+        SpiralTraversal.spiralTraversal();
         // BubbleSort.bubbleSort();
     }
 }
