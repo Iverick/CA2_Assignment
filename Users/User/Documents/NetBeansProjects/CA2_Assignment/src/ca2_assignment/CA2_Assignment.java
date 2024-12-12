@@ -4,6 +4,10 @@
  */
 package ca2_assignment;
 
+import java.util.HashSet;
+import java.util.Scanner;
+import java.util.Set;
+
 /**
  *
  * @author User
@@ -14,7 +18,6 @@ public class CA2_Assignment {
      * Link to Github repo - https://github.com/Iverick/CA2_Assignment
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println(CheckArrayForDuplicates.checkArrayForDuplicates());
     }
-    
 }
